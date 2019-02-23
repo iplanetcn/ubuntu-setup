@@ -1,5 +1,5 @@
 root: ./
-
+title: "Ubuntu Setup Guide"
 structure:
   readme: README.md
   summary: SUMMARY.md
