@@ -1,0 +1,5 @@
+{
+  "gitbook": ">=2.0.0",
+  "title": "Ubuntu Setup Guide",
+  "description": "This is a book about how to setup Ubuntu after installed."
+}
